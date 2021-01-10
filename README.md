@@ -1,2 +1,2 @@
 # python_para_todos
-Arenda a criar diversas aplicações
+Aprendendo a criar diversas aplicações para web/ios/android de forma interativa.
